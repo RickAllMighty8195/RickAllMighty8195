@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[GitHub-Mark.zip]
-[Octocats.zip]
+
+![octokit](https://user-images.githubusercontent.com/96168420/156949588-4add587f-1b55-4bdf-b844-6c9927606de4.png)
+![GitHub_Logo_White](https://user-images.githubusercontent.com/96168420/156949678-f6aa0a53-0f17-4adc-83ae-8bcdbab166a6.png)
+![brave](https://user-images.githubusercontent.com/96168420/156949809-68ed731a-34d7-4123-8491-87bde649670e.png)
